@@ -10,3 +10,11 @@
     --titulo: "Alfa Slab One", serif;
     --texto: "Jockey One", sans-serif;
 }
+
+/* REGRA "BODY" CORRIGIDA (removida a duplicata) */
+body{
+    background-color: #5bc0beff;
+    text-align: center;
+    text-decoration-color: #ff6600;
+    text-size-adjust: var(--laranja);
+}
